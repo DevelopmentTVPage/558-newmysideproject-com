@@ -1,0 +1,15 @@
+{
+    "title": "Side Project",
+    "baseURL": "https:\/\/newmysideproject.com\/side",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": null,
+    "params": {
+        "loginId": "1758991",
+        "subfolder": "\/side",
+        "firstpartycookies": true,
+        "cookiedomain": "newmysideproject.com"
+    }
+}
